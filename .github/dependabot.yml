@@ -8,8 +8,8 @@ updates:
   - package-ecosystem: npm
     directory: "/javascript"
     schedule:
-      interval: "hourly"
+      interval: "daily"
   - package-ecosystem: bundler
     directory: "/ruby"
     schedule:
-      interval: "hourly"
+      interval: "weekly"
